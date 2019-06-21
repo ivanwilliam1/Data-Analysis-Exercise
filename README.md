@@ -1,4 +1,4 @@
-# Data Analyst Exercise
+# Data Analysis Exercise
 
 Howdy!
 
